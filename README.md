@@ -1,2 +1,0 @@
-# FirstDayRepo
-First day repository. 
